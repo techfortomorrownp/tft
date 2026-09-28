@@ -1,0 +1,35 @@
+{
+  "sections": [
+    {
+      "title": "Company",
+      "links": [
+        {
+          "label": "About Us",
+          "href": "/about"
+        },
+        {
+          "label": "Our Team",
+          "href": "/our-team"
+        },
+        {
+          "label": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "label": "Contact Us",
+          "href": "/contact"
+        }
+      ]
+    },
+    {
+      "title": "Support",
+      "links": [
+     
+        {
+          "label": "Volunteer",
+          "href": "/volunteer"
+        }
+      ]
+    }
+  ]
+}
